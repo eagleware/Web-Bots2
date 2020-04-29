@@ -1,0 +1,3 @@
+[0405/200435.853:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0405/205239.722:ERROR:file_io_win.cc(170)] CreateFile C:\Users\admin\AppData\Local\Temp\scoped_dir15228_2120255288\Crashpad\reports\89f47467-b225-4320-afcc-84400ceaa9aa.dmp: The system cannot find the path specified. (0x3)
+[0405/205239.844:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
